@@ -1,0 +1,2 @@
+# Red-Light-Green-Light
+The first line of input contains a single integer T, denoting the number of test cases. The description of T test cases follows. The first line of each test case contains two space-separated integers N and K, denoting the total number of players between Gi-Hun and Ali and the height of both of them respectively. The second line of each test case contains N space-separated integers, denoting the heights of the players between Gi-Hun and Ali.
